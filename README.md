@@ -3,3 +3,4 @@
 <p>Made in Javascript.</br>
 Comprises Two levels: Easy And Hard.</br>
 Press "New Colors" button on left to play again.
+Link: goyalayush.github.io/RGB-Game

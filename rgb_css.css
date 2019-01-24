@@ -27,7 +27,8 @@ h1 {
     text-align: center;
     line-height: 1.1;
     font-weight: normal;
-    background: steelblue;
+/*     background: steelblue; */
+    background-image: url("background_images/download.jpeg");
     margin: 0;
     text-transform: uppercase;
     padding: 20px 0;
